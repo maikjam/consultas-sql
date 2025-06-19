@@ -1,7 +1,7 @@
 --  Nome e sobre nome e tefone da pessoa, e  numero de pedido de cada um
 
 SELECT 
-	ps.nome,
+    ps.nome,
     ps.sobrenome,
     ps.telefone,
     p.num_pedido,
